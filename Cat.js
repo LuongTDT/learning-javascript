@@ -1,1 +1,5 @@
-var Cat =  null;
+function Cat(name){
+    this.name = name;
+}
+
+module.exports = Cat;
