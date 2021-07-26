@@ -9,3 +9,4 @@ git reset --mixed <commit id> =>reset to specific commit id and unstaged all com
 git commit --hard <commit id> => reset to specific commit id and remove all commits after it
 ===============
 git remote add origin <repo-url>
+craete new branch
